@@ -61,11 +61,4 @@ function generateTable() {
 }
 
 
-function Result() 
-
-{
-
-    location.replace(generateTable())
-
-}
 
